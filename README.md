@@ -15,5 +15,5 @@ You'll need steam vr running at the same time.
 
 #### `Images`
 Hope this help someone looking into this
-<div style="text-align:center"><img src="https://github.com/anzerr/vr.screenshot/blob/master/assets/left.bmp?raw=true" /></div>
-<div style="text-align:center"><img src="https://github.com/anzerr/vr.screenshot/blob/master/assets/right.bmp?raw=true" /></div>
+<div style="text-align:center"><img style="width:400px" src="https://github.com/anzerr/vr.screenshot/blob/master/assets/left.bmp?raw=true" /></div>
+<div style="text-align:center"><img style="width:400px" src="https://github.com/anzerr/vr.screenshot/blob/master/assets/right.bmp?raw=true" /></div>
