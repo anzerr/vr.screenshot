@@ -1,0 +1,22 @@
+{
+	"name": "vr.screenshot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+	},
+	"eslintConfig": {
+		"extends": "eslint-config-basic"
+	},
+	"dependencies": {
+		"bmp.util": "git+https://github.com/anzerr/bmp.util.git",
+		"image.util": "git+https://github.com/anzerr/image.util.git"
+	}
+}
