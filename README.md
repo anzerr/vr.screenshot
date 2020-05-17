@@ -12,3 +12,8 @@ That the source of those files is there a better way of doing this?
 
 Open the project in [visual studio](https://visualstudio.microsoft.com) and from there you should be able to build the project of run in debug.
 You'll need steam vr running at the same time.
+
+#### `Images`
+Hope this help someone looking into this
+<div style="text-align:center"><img src="https://github.com/anzerr/vr.screenshot/blob/master/assets/left.bmp?raw=true" /></div>
+<div style="text-align:center"><img src="https://github.com/anzerr/vr.screenshot/blob/master/assets/right.bmp?raw=true" /></div>
